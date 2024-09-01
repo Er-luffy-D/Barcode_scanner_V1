@@ -1,5 +1,5 @@
 # Barcode scanner using commmand line argument
-(I have also provided a sample image for test 
+(I have also provided a sample image for test)
 ## Installation:
 
   ### 1. Clone the repository
