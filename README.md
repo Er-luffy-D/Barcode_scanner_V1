@@ -15,3 +15,10 @@
   ```
   python barcode_scanner.py --image img.png
   ```
+## Added realtime barcode scanner modified version of previous barcode scanner
+  in this you can decode a barcode in realtime.
+  ### To use this:
+  ```
+  python bar_scanner_camera.py
+  ```
+  this will automatically opens your camera and the decoding of barcode starts
